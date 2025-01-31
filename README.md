@@ -54,17 +54,6 @@ The combination of these approaches enabled:
 - R Programming
 - Libraries: dplyr, broom
 
-## Project Structure
-├── data/
-│   └── covid_georgia.csv
-├── scripts/
-│   ├── data_cleaning.R
-│   ├── statistical_analysis.R
-│   └── visualization.R
-├── results/
-│   └── analysis_results.md
-└── README.md
-
 **Key Findings**
 - Overall death rate: 4.47%
 - Significant demographic variations
