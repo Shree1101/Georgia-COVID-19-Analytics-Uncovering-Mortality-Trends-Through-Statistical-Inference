@@ -63,5 +63,3 @@ The combination of these approaches enabled:
 - R >= 4.0.0
 - dplyr
 - broom
-
-The analytical approaches in this COVID-19 study were strategically chosen to extract meaningful insights from complex mortality data:
